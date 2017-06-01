@@ -1,0 +1,23 @@
+{
+  "name": "gentle-tdd",
+  "version": "1.0.0",
+  "description": "Ejercicio de TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StephHiyagon/pruebas-unit.git"
+  },
+  "keywords": [
+    "gentle",
+    "unit-tets"
+  ],
+  "author": "Stephanie Hiyagon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StephHiyagon/pruebas-unit/issues"
+  },
+  "homepage": "https://github.com/StephHiyagon/pruebas-unit#readme"
+}
